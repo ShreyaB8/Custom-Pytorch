@@ -5,5 +5,5 @@ __pycache__/
 .npy
 .npz
 .pkl
-autograder/hw3/data/
-autograder/hw2/ref_result/
+custom_pytorch/autograder/hw3/data/
+custom_pytorch/autograder/hw2/ref_result/
